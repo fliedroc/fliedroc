@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fliedroc
+- 👀 I’m interested in Adas and simulation stuffs
+- 🌱 I’m currently learning intelligent driveing simulation
+- 💞️ I’m looking to collaborate on how to simulate sensor model, such as carema, lidar and so on
+- 📫 My email is zpf_135@163.com, you can send me a email or inter-site message, i wll reply asap
